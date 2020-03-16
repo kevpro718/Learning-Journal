@@ -10,3 +10,4 @@ Growth mindset to me is a way to mentally prepare yourself for the task or chall
 
 
 *give yourself a break from time to time to collect your thoughts.
+😁👍
