@@ -1,4 +1,4 @@
-Github Commands:
+*Github Commands:
 *git status
 *git push
 *git pull
