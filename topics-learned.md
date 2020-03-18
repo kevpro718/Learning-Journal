@@ -6,4 +6,4 @@
 *git pull origin master
 *git add
 *git committ
-[page 2]()
+[page 2](README.md)
