@@ -1,4 +1,6 @@
 [home](https://kevpro718.github.io/Learning-Journal/)
+[topics-learned](https://kevpro718.github.io/Learning-Journal/)
+
 
 # Learning-Journal
 **My progress in 102.**
