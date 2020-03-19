@@ -1,5 +1,9 @@
 [home](https://kevpro718.github.io/Learning-Journal/)
+
 [topics-learned](https://kevpro718.github.io/Learning-Journal/)
+
+[coders-computer.md](https://kevpro718.github.io/Learning-Journal/)
+
 
 
 # Learning-Journal
