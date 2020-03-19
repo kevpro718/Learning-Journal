@@ -1,4 +1,4 @@
-[Github Commands](https://kevpro718.github.io/Learning-Journal/topics-learned.md)
+[*Github Commands](https://kevpro718.github.io/Learning-Journal/topics-learned.md)
 
 *Github Commands
 
