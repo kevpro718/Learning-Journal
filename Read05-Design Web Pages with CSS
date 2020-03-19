@@ -1,3 +1,37 @@
 [Web Page Design with CSS](https://kevpro718.github.io/Learning-Journal/)
 
 Web Page Design with CSS
+
+CSS allows you to create rules that control
+
+the way that each individual box (and the contents
+
+of that box) is presented.
+
+Example Styles
+
+Boxes
+
+Width and Height
+
+Borders (color, width, and style)
+
+Background color and images
+
+Position in the browser window
+
+Text
+
+Typeface
+
+Size
+
+Color
+
+Italics, bold, uppercase, lowercase, small-caps
+
+Specific
+
+There are specific ways in which you can style certain
+
+elements such as lists, tables, and forms
