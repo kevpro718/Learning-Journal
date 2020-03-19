@@ -1,4 +1,4 @@
-[coders-computer.md](https://kevpro718.github.io/Learning-Journal/)
+[coders-computer](https://kevpro718.github.io/Learning-Journal/)
 
 Basic Terminal usage
 
