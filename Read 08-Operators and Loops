@@ -64,5 +64,13 @@ This operator tests at least one condition.
     Logical not
     
 This operator takes a single Boolean value and inverts it.
+
+Loops
+
+For
+
+While
+
+Do While
   
   
