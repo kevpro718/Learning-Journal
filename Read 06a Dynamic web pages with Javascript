@@ -6,18 +6,26 @@ Read 06a Dynamic web pages with Javascript
 
 How Html CSS and Javascript fit together
 
+
 Where possible try to keep the three languages in separate files,
+
 
 with the Html page linking to CSS and Javascript files.
 
+
 The Html gives the page structure and adds semantics.
+
 
 The CSS enhances the Html page with rules that state
 
+
 how the Html content is presented (backgrounds, borders, box
+
 
 dimensions, colors, fonts.
 
+
 Javascript is how we can change how the page behaves,
+
 
 adding interactivity.
