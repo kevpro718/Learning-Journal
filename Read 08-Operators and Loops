@@ -69,8 +69,26 @@ Loops
 
 For
 
+If you need to run a code a specific number of times,
+
+use a for loop.
+
 While
 
+If you do not know how many times the code shouls run,
+
+use a while loop'
+
 Do While
+
+The do...while loop is very similiar to the while loop,
+
+but has one key difference: it will always run the 
+
+statements inside the curly braces at least once, even
+
+if the condition evaluates to false.
+
+
   
   
