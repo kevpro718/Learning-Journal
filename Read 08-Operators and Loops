@@ -1,3 +1,68 @@
 [Read 08 Operators and Loops](https://kevpro718.github.io/Learning-Journal/)
 
 Read 08 Operators and Loops
+
+
+Comparison Operators: Evaluating Conditions
+
+You can evaluate a situation by comparing one value
+
+in the script to what you might expect it to be.
+
+The result will be Boolean: true or false
+
+    ==
+
+is equal to
+
+The operator compares two values(numbers,strings, or
+
+Booleans) to see if they are the same.
+
+   ===
+strict equal to
+
+The operator compares two values to check that
+
+both the data type and value are the same.
+
+  !=
+  
+is not equal to
+
+The operator compares two values (numbers, strings, or 
+
+Booleans) to see if they are not the same.
+
+  !==
+strict not equal to
+
+This operator compares two values to check that both the
+
+data type and value are not the same.
+
+Logical Operators
+
+Logical operatorasa allow you to compare the results
+
+of more than one comparison operator.
+
+         &&
+         
+    Logical and
+  
+This operator tests more than one condition.
+
+        ||
+      
+     Logical or
+     
+This operator tests at least one condition.
+
+         !
+         
+    Logical not
+    
+This operator takes a single Boolean value and inverts it.
+  
+  
