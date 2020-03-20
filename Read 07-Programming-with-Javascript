@@ -1,34 +1,34 @@
 [Read 07 Programming with Javascript](https://kevpro718.github.io/Learning-Journal/)
 
-Read 07 Programming with Javascript
+*Read 07 Programming with Javascript
 
-Javascript allows you to make web pages more interactive
+*Javascript allows you to make web pages more interactive
 
-by accessing and modifying the content and markup used
+*by accessing and modifying the content and markup used
 
-in a web page while it is being viewed in the browser.
+*in a web page while it is being viewed in the browser.
 
 *Access Content
 
-Javascript can be used to select any element, attribute, or text
+*Javascript can be used to select any element, attribute, or text
 
-from an HTML page.
+*from an HTML page.
 
 *Modify Content
 
-You can use Javascript to add elements, attributes, and text to the 
+*You can use Javascript to add elements, attributes, and text to the 
 
-page, or remove them.
+*page, or remove them.
 
 *Program Rules
 
-You can specify and set up steps for the browser to follow (like a recipe), 
+*You can specify and set up steps for the browser to follow (like a recipe), 
 
-which allows it to access or change the content of a page.
+*which allows it to access or change the content of a page.
 
 *React to Events
 
-You can specify that a script should run when a specific event
+*You can specify that a script should run when a specific event
 
-has occurred. 
+*has occurred. 
 
